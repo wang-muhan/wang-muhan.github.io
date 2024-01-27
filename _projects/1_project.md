@@ -6,7 +6,6 @@ img: assets/img/NLP_Project.jpg
 importance: 1
 category: work
 related_publications: true
-pdf: NLP_Project.pdf
 ---
 
 Every project has a beautiful feature showcase page.
