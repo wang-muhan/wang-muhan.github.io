@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: I am a second-year undergraduate student in <a href='https://iiis.tsinghua.edu.cn/'>IIIS</a> (Yao Class), Tsinghua University. #<a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: #<a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
 
 profile:
   align: left
@@ -21,6 +21,8 @@ latest_posts: true # includes a list of the newest posts
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
+
+I am a second-year undergraduate student in <a href='https://iiis.tsinghua.edu.cn/'>IIIS</a> (Yao Class), Tsinghua University. 
 
 I am currently interested in CV and generative models, specifically towards image/video/3D generation via diffusion models. I am also interested in imitation learning for robot policy generation, and text2sql generation. 
 
