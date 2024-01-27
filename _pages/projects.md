@@ -5,7 +5,7 @@ permalink: /projects/
 description: 
 nav: true
 nav_order: 3
-display_categories: [Course Project, fun]
+display_categories: [Course Project, Just for Fun]
 horizontal: false
 ---
 

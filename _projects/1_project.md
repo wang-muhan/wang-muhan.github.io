@@ -4,7 +4,7 @@ title: NLP Course Project
 description: Classical Chinese Poetry and Illustration Generation with ChatGLM and DALL-E 3 Integration
 img: assets/img/NLP_Project.jpg
 importance: 1
-category: work
+category: Course Project
 related_publications: true
 ---
 
